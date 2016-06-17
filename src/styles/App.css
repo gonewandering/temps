@@ -1,0 +1,32 @@
+/* Base Application Styles */
+body {
+  color: #777;
+  background: #222;
+}
+
+h1 {
+  font-weight: 300;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+
+.time {
+  font-size: 160px;
+  font-weight: bold;
+  color: #999;
+  margin-top: 0;
+}
+
+.date {
+  margin-top: 100px;
+}
+
+.metric {
+  font-size: 80px;
+  font-weight: bold;
+  color: #999;
+}
+
+.label {
+  text-transform: uppercase;
+}
